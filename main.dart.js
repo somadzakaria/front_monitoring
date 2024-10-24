@@ -76153,7 +76153,7 @@ A.ake.prototype={
 $0(){this.a.e=new A.df(Date.now(),!1)},
 $S:0}
 A.akd.prototype={
-$0(){var s,r,q,p,o,n,m,l,k=null,j="updatedData",i="temperature",h="No data on call",g="assest/raw/sirine.json",f="humidity",e=this.a,d=e.d,c=d.ax
+$0(){var s,r,q,p,o,n,m,l,k=null,j="updatedData",i="temperature",h="No data on call",g="assets/raw/sirine.json",f="humidity",e=this.a,d=e.d,c=d.ax
 if(J.ef(c.gbq(c))||!1)e=B.E6
 else{s=A.ea("mobile",k,k,k)
 r=e.x
