@@ -75850,8 +75850,8 @@ A.Oi.prototype={
 M(a){var s=null
 return A.kE(A.o1(A.a([A.f4(new A.B9(50,B.pg,38.46153846153846,6.25,s),s,s),B.eP,A.ea("loading..",s,$.fO().ig(B.pg),s)],t.p),B.af,B.hF,B.an),s,s)}}
 A.agk.prototype={
-acC(){var s,r,q,p,o,n=this,m="http://172.21.100.96:3001",l=null,k="query",j=t.N,i=t.z,h=A.av(["transports",A.a(["websocket"],t.s),"autoConnect",!0,"log",!0],j,i),g=A.h9(m,0,l),f=g.gh1()+"://"+g.gim(g)+":"+g.glx(g),e=g.gdU(g),d=$.apo.Y(0,f)&&$.apo.h(0,f).d.Y(0,e),c=h.h(0,"forceNew")===!0||h.h(0,"force new connection")===!0||!1===h.h(0,"multiplex")||d,b=A.aV("io")
-if(c){$.aEP().aw(B.o,"ignoring socket cache for http://172.21.100.96:3001",l,l)
+acC(){var s,r,q,p,o,n=this,m="https://svrmon.mmchospital.co.id:447",l=null,k="query",j=t.N,i=t.z,h=A.av(["transports",A.a(["websocket"],t.s),"autoConnect",!0,"log",!0],j,i),g=A.h9(m,0,l),f=g.gh1()+"://"+g.gim(g)+":"+g.glx(g),e=g.gdU(g),d=$.apo.Y(0,f)&&$.apo.h(0,f).d.Y(0,e),c=h.h(0,"forceNew")===!0||h.h(0,"force new connection")===!0||!1===h.h(0,"multiplex")||d,b=A.aV("io")
+if(c){$.aEP().aw(B.o,"ignoring socket cache for https://svrmon.mmchospital.co.id:447",l,l)
 b.b=A.axE(h,m)}else{s=$.apo.h(0,f)
 if(s==null){s=A.axE(h,m)
 $.apo.m(0,f,s)}b.b=s}if(g.giv(g).length!==0&&h.h(0,k)==null)h.m(0,k,g.giv(g))
